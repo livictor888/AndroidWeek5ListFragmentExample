@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ListFragmentExample</string>
+    <string-array name="code_name">
+        <item>Cupcake</item>
+        <item>Donut</item>
+        <item>Eclair</item>
+        <item>Froyo</item>
+        <item>GingerBread</item>
+        <item>HoneyComb</item>
+        <item>IceCream Sandwich</item>
+        <item>JellyBean</item>
+        <item>Key Lime Pie</item>
+        <item>Lemon Meringue Pie</item>
+        <item>Macadamia Nut Cookie</item>
+        <item>New York Cheesecake</item>
+        <item>Oatmeal Cookie</item>
+        <item>Pistachio Ice Cream</item>
+        <item>Quince Tart</item>
+        <item>Red Velvet Cake</item>
+        <item>Snow Cone</item>
+        <item>Snow Cone v2</item>
+        <item>Tiramisu"</item>
+    </string-array>
+    
+</resources>
